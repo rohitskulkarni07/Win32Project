@@ -20,8 +20,15 @@ Project Description :
 	
 		Codes
 			1. Company.exe 			-> Company.abc
-			3. CompanyServer.dll		-> CompanyServer.abc1
-			4. CompanyServer.reg 		-> CompanyServer.abc2
+			2. CompanyServer.dll		-> CompanyServer.abc1
+			3. CompanyServer.reg 		-> CompanyServer.abc2
+			4. Company.rc			-> Company.abc3
+			5  Company.res			-> Company.abc4
+			6. CompanyServerHeader.h	-> CompanyServerHeader.abc5
+			7. header.h			-> header.abc6
+			8. CompanyServer.cpp		-> CompanyServer.abc7
+			10. CompanyServer.def		-> CompanyServer.abc8
+
 			
 		ScreenShots
 		
