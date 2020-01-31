@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{C06840FA-8098-4E77-8DFE-414F499F5AED}]
+@="MyComDll"
+[HKEY_CLASSES_ROOT\CLSID\{C06840FA-8098-4E77-8DFE-414F499F5AED}\InprocServer32]
+@="C:\\Windows\\System32\\CompanyServer.dll"

@@ -1,0 +1,7 @@
+#include<windows.h>
+#include "header.h"
+
+
+MYBITMAP BITMAP "bitmap1.bmp"
+MYICON ICON "icon1.ico"
+

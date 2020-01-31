@@ -1,0 +1,30 @@
+﻿  Company.cpp
+d:\win32sdk project\company\company\company.cpp(183): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\win32sdk project\company\company\company.cpp(184): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\win32sdk project\company\company\company.cpp(185): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\win32sdk project\company\company\company.cpp(506): error C2440: '=': cannot convert from 'const char [12]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(506): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(510): error C2440: '=': cannot convert from 'const char [11]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(510): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(514): error C2440: '=': cannot convert from 'const char [14]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(514): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(518): error C2440: '=': cannot convert from 'const char [7]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(518): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(522): error C2440: '=': cannot convert from 'const char [8]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(522): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(526): error C2440: '=': cannot convert from 'const char [5]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(526): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(555): error C2440: '=': cannot convert from 'char [10]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(555): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(558): error C2440: '=': cannot convert from 'char *' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(558): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(561): error C2440: '=': cannot convert from 'char *' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(561): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(564): error C2440: '=': cannot convert from 'char *' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(564): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(567): error C2440: '=': cannot convert from 'char [10]' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(567): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(570): error C2440: '=': cannot convert from 'char *' to 'LPWSTR'
+  d:\win32sdk project\company\company\company.cpp(570): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\win32sdk project\company\company\company.cpp(554): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: see declaration of 'itoa'
